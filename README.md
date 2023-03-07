@@ -31,7 +31,7 @@ Projeto desenvolvido durante o Ignite Lab 4 da Rocketseat, utilizando ferramenta
 
 
 ### Storybook
-<a href="krochas.github.io/IgniteLab04/"> Link </a>  
+<a href="https://krochas.github.io/IgniteLab04/"> Link </a>  
 
 <p>
   <img src="https://github.com/KRochaS/IgniteLab04/blob/master/.github/imgs/storybook.PNG" width="900" >
